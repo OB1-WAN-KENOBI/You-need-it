@@ -175,8 +175,8 @@ html {
   flex-direction: column;
   justify-content: space-between;
   z-index: 0;
-  width: 334px;
-  min-height: 596px;
+  width: 100%;
+  min-height: 100%;
   background-size: cover;
   background-position: center;
 }
