@@ -23,7 +23,6 @@
 ## Запуск проекта
 1.  <a>https://ob1-wan-kenobi.github.io/You-need-it/</a>
    
-2. Откройте `index.html` в браузере.
 
 ## Планы по доработке
 - Улучшение адаптивности для мобильных устройств
@@ -50,11 +49,7 @@ This project is a one-page website for the auction "You Need It." It features un
 - Nested BEM file structure
 
 ## Project Launch
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/OB1-WAN-KENOBI/ono-tebe-nado.git
-   or open link https://ob1-wan-kenobi.github.io/ono-tebe-nado/
-2. Open `index.html` in your browser.
+1.  <a>https://ob1-wan-kenobi.github.io/You-need-it/</a>
 
 ## Future Plans
 - Improve mobile responsiveness
